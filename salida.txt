@@ -1,0 +1,2 @@
+Nombre	Area	Calificacion 1	Calificacion 2	Resultado
+ISA	1		56		98	ACEPTADO
